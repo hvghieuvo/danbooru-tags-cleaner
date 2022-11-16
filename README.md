@@ -10,6 +10,6 @@ Just copy tags on danbooru (from General)
 Choose Danbooru (Also work with Deep Danbooru)
 ![image](https://user-images.githubusercontent.com/59567579/202249608-682399a5-7c03-45ff-aecc-0c6f4594e2d8.png)
 =================================
-Click Clean and wala, done
-Copy output
+Click Clean and wala, u done \n
+Now just copy the output below
 =================================
