@@ -1,8 +1,8 @@
 # danbooru-tags-cleaner
-Just an application i write to using Diffusion easier
+Just an application i write to using Waifu Diffusion easier
 =================================
-![image](https://user-images.githubusercontent.com/59567579/202249011-2bfd1bcb-0a45-446a-82af-3a8614c49f24.png)
 Here's the GUI
+![image](https://user-images.githubusercontent.com/59567579/202249011-2bfd1bcb-0a45-446a-82af-3a8614c49f24.png)
 =================================
 Just copy tags on danbooru (from General)
 ![image](https://user-images.githubusercontent.com/59567579/202249534-c9cc6ea4-7541-46ef-a846-1e08fdd97ac1.png)
